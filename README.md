@@ -1,8 +1,7 @@
 A modern URL Shortener web application built using React and Vite.
 This project allows users to shorten long URLs, create clean links, and provides a professional SaaS-style UI suitable for portfolio use.
-🔗 Live Demo
+[🚀 View Live Project](https://snipe-urlshortener.netlify.app)
 
-👉 ([](https://snipe-urlshortener.netlify.app/))
 ✨ Features
 Shorten long URLs instantly
 TinyURL-style modern UI
